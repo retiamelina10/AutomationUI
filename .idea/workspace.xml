@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d75e989e-5d36-46cf-9245-d07f3e499b2f" name="Changes" comment="">
+    <list default="true" id="d75e989e-5d36-46cf-9245-d07f3e499b2f" name="Changes" comment="dua">
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
@@ -110,6 +110,14 @@
       <option name="presentableId" value="Default" />
       <updated>1664926732313</updated>
     </task>
+    <task id="LOCAL-00001" summary="dua">
+      <created>1664955530518</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664955530531</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -122,6 +130,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="dua" />
+    <option name="LAST_COMMIT_MESSAGE" value="dua" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/AoyomationUI$All_in_AoyomationUI.ic" NAME="All in AoyomationUI Coverage Results" MODIFIED="1664955007079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
